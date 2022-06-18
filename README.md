@@ -6,12 +6,12 @@ This project is built using NodeJs along with ProstgreSql for the database. This
 
 ### What I learned
 
-Completing this project was one of the most difficult and rewarding experience’s I have overcome in recent memory. From learning how to implement API calls with asynchronous Javascript. To spending hours trying to debug errors with hosting services. Finishing this project from beginning to end has taught me an invaluable lesson in how to debug problems, be a self-sufficient coder, and how to come up with different and interesting ways to solve problems. There were numerous times when completing this project where I had that "Aha!" moment where the blocks aligned and I was able to make real, and meaningful progress towards fluency in programming.
+Implementing the back end of this website took quite a bit of trial and error. I had a lot to learn about the intricacies of how the web works, how Node.js interacts with the React front end, how different types of requests to servers should be handled, and the suite of testing tools that are available to handle different server requests, (Postman for example). Back end is not my specialty, however learning it on a more fundamental level has given me more insight on the proper way to interact with the back end of different projects. And has made me a more well rounded front end developer. 
 
-The other big thing that really became clear to me as I completed this project was how creative the process of programming is. As someone who comes from a performing arts background, it was quite refreshing to feel the sense of creative flow in creating a website that I would get from being a part of the creative industries. In watching, reading, and consuming content related to Javascript and React, it is so fascinating to see everyone's personal style in how they think about code. And how their brain works to find interesting solutions to their problems.
+In doing the back end of this project, something else I discovered is how transferable different skills in software are. The most important tool in the coding tool belt isn’t the language per say, but the overarching structures and methods that are used throughout different languages and frameworks. Every project I have completed since this one, I have been much less intimidated by experimenting with new frameworks, and the amount of time it takes to pick up new skills has decreased dramatically. 
 
 ### Getting this to run
 
-This code is connected to a backend server with Heroku. Feel free to clone the app and play around on your local machine, however thre will be some functionallity missing since the backend is required for much of the 'login' funcionality.
+This code is hosted on Heroku. Feel free to clone the code to see what is going on under the hood. 
 
 If you just want to play around in the live site here is the link: https://face-finding-project.herokuapp.com/
